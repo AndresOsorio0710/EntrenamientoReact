@@ -1,0 +1,9 @@
+npx create-react-app hopfield --template typescript
+npm install react-router-dom
+npm install react-router  
+npm install material  
+npm install @mui/styles   
+npm install @mui/material  
+npm install @mui/icons-material
+npm install @emotion/styled    
+npm install @emotion/react  
