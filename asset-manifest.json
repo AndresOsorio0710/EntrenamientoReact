@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AndresOsorio0710.github.io/EntrenamientoReact/static/css/main.a7dddace.css",
+    "main.js": "/AndresOsorio0710.github.io/EntrenamientoReact/static/js/main.b1a75e67.js",
+    "static/js/787.7dfa13a6.chunk.js": "/AndresOsorio0710.github.io/EntrenamientoReact/static/js/787.7dfa13a6.chunk.js",
+    "index.html": "/AndresOsorio0710.github.io/EntrenamientoReact/index.html",
+    "main.a7dddace.css.map": "/AndresOsorio0710.github.io/EntrenamientoReact/static/css/main.a7dddace.css.map",
+    "main.b1a75e67.js.map": "/AndresOsorio0710.github.io/EntrenamientoReact/static/js/main.b1a75e67.js.map",
+    "787.7dfa13a6.chunk.js.map": "/AndresOsorio0710.github.io/EntrenamientoReact/static/js/787.7dfa13a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7dddace.css",
+    "static/js/main.b1a75e67.js"
+  ]
+}
