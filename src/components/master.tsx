@@ -4,6 +4,7 @@ import { Routes, Route, Navigate } from "react-router";
 import Counter from "./counter/counter";
 import UseStyles from "../static/styles/use-styles";
 import Home from "./home/home";
+import EnRaya from "./en-raya/en-raya";
 
 const Master = () => {
   const classes = UseStyles();
@@ -13,6 +14,7 @@ const Master = () => {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/counter" element={<Counter />} />
+        <Route path="/enraya" element={<EnRaya />} />
         <Route path="*" element={<Navigate replace to="/" />} />
       </Routes>
     </Box>
